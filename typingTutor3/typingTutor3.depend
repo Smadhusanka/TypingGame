@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1700416640 source:d:\typingtutor3\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<unistd.h>
+	<termios.h>
+
+1700419451 source:d:\123\typingtutor3\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<unistd.h>
+	<termios.h>
+
+1700419451 source:c:\users\user\desktop\typinggame\typingtutor3\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<unistd.h>
+	<termios.h>
+
